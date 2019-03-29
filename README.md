@@ -1,6 +1,6 @@
 # mall
 
-> xiaomawang mall
+> nani mall
 
 ## Build Setup
 
